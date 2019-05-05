@@ -28,7 +28,7 @@ p1= Fruit()
 p1.Nutrition()
 p1.Fruit_Shape()
 
-print("___________________________")
+print("____________________________")
 
 c1= Pineapple()
 c1.Nutrition()
